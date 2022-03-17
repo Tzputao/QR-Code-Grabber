@@ -1,3 +1,22 @@
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/Tzputao/QR-Code-Grabber?style=flat-square" </a>
+<img src="https://img.shields.io/github/last-commit/Tzputao/QR-Code-Grabber?style=flat-square" </a>
+<img src="https://img.shields.io/github/stars/Tzputao/QR-Code-Grabber?color=444444&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/Tzputao/QR-Code-Grabber?color=444444&label=Forks&style=flat-square" </a>
+</p>
+</p>
+<p align="center">
+<a href="https://github.com/Tzputao/Discord-Webhook-Protetor#setting-up-the-api">Configure a API</a> ⋮
+</p>
+
+#### esse self foi feito por:
+Amor ❌ código ✅
+
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Marque este repositório se você gostou do Grabber de QR code!
+
+---------------------------------------
+
+
 # Discord-QR-Scam
 Discord Imagem Token Grabber
 
